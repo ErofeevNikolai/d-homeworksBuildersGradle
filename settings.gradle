@@ -1,2 +1,5 @@
 rootProject.name = 'd-homeworksBuildersGradle'
+include 'db'
+include 'api'
+include 'service'
 
